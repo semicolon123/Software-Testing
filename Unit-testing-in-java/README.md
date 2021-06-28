@@ -5,4 +5,4 @@ This repository is part of an article which is intended for any individual who i
 Please go to [this article](https://swatirajwal.medium.com/unit-testing-of-simple-java-programs-b785a164b440) to find more details. In case of any query, kindly comment. I will be happy to answer. 
 
 
-![Alt Text](https://github.com/semicolon123/Unit-testing-in-java/blob/main/All%20test%20cases.gif)
+![Alt Text](https://github.com/semicolon123/Software-Testing/blob/main/Unit-testing-in-java/All%20test%20cases.gif)
